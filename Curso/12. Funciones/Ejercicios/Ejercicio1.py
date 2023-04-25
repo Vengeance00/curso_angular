@@ -12,6 +12,7 @@ def perdirNumeros():
             lista.append(numero)
 
 def listaOrdenada():
+    lista.sort()
     pares = []
     inpares = []
     for i in lista:
